@@ -1,0 +1,4 @@
+[2024-06-08 18:03:53] [class-ss-url-fetcher.php:251] Fetching URL: http://localhost/ymparistorakentajakilta
+[2024-06-08 18:03:53] [class-ss-url-fetcher.php:251] Fetching URL: http://localhost/ymparistorakentajakilta
+[2024-06-08 18:06:00] [class-ss-url-fetcher.php:251] Fetching URL: http://localhost/ymparistorakentajakilta
+[2024-06-08 18:06:00] [class-ss-url-fetcher.php:251] Fetching URL: http://localhost/ymparistorakentajakilta
